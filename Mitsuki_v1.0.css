@@ -58,7 +58,7 @@ body {
 }
 
 .square-button:hover {
-    background-color: hsl(0, 0%, 8%)); /* 深灰色背景 */
+    background-color: hsl(0, 0%, 0%)); /* 深灰色背景 */
     filter: brightness(1.2); /* 使按钮颜色变暗 */
     transition: background-color 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease; /* 添加渐变过渡 */
 }
